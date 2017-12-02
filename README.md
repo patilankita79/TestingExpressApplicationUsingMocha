@@ -21,7 +21,7 @@ npm test
 ```
 
 
-<img src="https://github.com/patilankita79/TestingExpressApplicationUsingMocha/commit/01b7b12b279c5797f25b453a19b22db721f05ccd" />
+<img src="https://github.com/patilankita79/TestingExpressApplicationUsingMocha/blob/master/Screenshots/1.png" />
 <img src="https://github.com/patilankita79/TestingExpressApplicationUsingMocha/blob/master/Screenshots/2.png" />
 <img src="https://github.com/patilankita79/TestingExpressApplicationUsingMocha/blob/master/Screenshots/3.png" />
 <img src="https://github.com/patilankita79/TestingExpressApplicationUsingMocha/blob/master/Screenshots/4.png" />
