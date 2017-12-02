@@ -1,4 +1,4 @@
-# TestingExpressApplicationUsingMocha
+# Testing Express Application Using Mocha
 Testing a simple express application using Mocha framework
 <hr>
 
