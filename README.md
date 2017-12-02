@@ -14,7 +14,7 @@ npm install expect@1.20.2 --save-dev
 
 ### Running tests 
 
-In the project directory,
+In the project directory, run the following command
 
 ```
 npm test
